@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research on Leijie Wang</title>
-    <link>https://example.com/research/</link>
+    <link>https://acornagain.github.io/leijiewang.github.io/research/</link>
     <description>Recent content in Research on Leijie Wang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Nov 2021 14:22:32 +0800</lastBuildDate><atom:link href="https://example.com/research/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Nov 2021 14:22:32 +0800</lastBuildDate><atom:link href="https://acornagain.github.io/leijiewang.github.io/research/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
